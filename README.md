@@ -6,7 +6,7 @@
 
 ###
 - 📚 I'm currently learning **Data Science with Python** <br>
-- ⚡ I’m currently working on [Finovo](https://github.com/lucaschini/Finovo)
+- ⚡ I’m currently working on [Finovo](https://github.com/lucaschini/Finovo) and [Fare Foto](https://github.com/lucaschini/farefoto)
 
 ###
 
