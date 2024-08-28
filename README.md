@@ -5,7 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-- 📚 I'm currently learning **Data Science with Python** <br>
+- 📚 I'm studying **Data Cience and Artificial Intelligence** at the university PUC Campinas <br>
 - ⚡ I’m currently working on [Finovo](https://github.com/lucaschini/Finovo) and [Fare Foto](https://github.com/lucaschini/farefoto)
 
 ###
