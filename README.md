@@ -24,13 +24,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,bash,docker,figma)](https://skillicons.dev)
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaschini)
-
 ## Recent Projects
 
 - [**AI on 8-Puzzle**](https://github.com/lucaschini/project1](https://github.com/ViniciusPinheiroLivinalli/Busca-8-Puzzle)) - AI solving the 8-Puzzle Problem, writen on C.
 - [**Fare Foto**](https://github.com/lucaschini/farefoto) - Commercial Website built on Next.Js and Prisma!
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaschini)
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
