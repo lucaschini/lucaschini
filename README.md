@@ -30,8 +30,7 @@
 
 ## Recent Projects
 
-- [**AI on 8-Puzzle**]([https://github.com/lucaschini/project1](https://github.com/ViniciusPinheiroLivinalli/Busca-8-Puzzle)) - Short description of project 1
-- [****](https://github.com/lucaschini/project2) - Short description of project 2
-- [**Project 3**](https://github.com/lucaschini/project3) - Short description of project 3
+- [**AI on 8-Puzzle**](https://github.com/lucaschini/project1](https://github.com/ViniciusPinheiroLivinalli/Busca-8-Puzzle)) - AI solving the 8-Puzzle Problem, writen on C.
+- [**Fare Foto**](https://github.com/lucaschini/farefoto) - Commercial Website built on Next.Js and Prisma!
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
