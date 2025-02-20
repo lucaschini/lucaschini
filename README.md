@@ -6,7 +6,7 @@
 
 ###
 
-- I'm a passionate software developer with a keen interest in web development, open source contributions, and ai. I enjoy building innovative solutions and learning new technologies.
+- I'm a software developer with experience in web development, normally using Next.Js (for better performance!). I'm also like open source contributions, and AI. I enjoy solving problems that help people.
 - 📚 I'm studying **Data Cience and Artificial Intelligence** at the university PUC Campinas <br>
 - ⚡ I’m currently working on [Finovo](https://github.com/lucaschini/Finovo) and [Fare Foto](https://github.com/lucaschini/farefoto)
 
