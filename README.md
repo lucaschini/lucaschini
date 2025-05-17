@@ -6,7 +6,7 @@
 
 ###
 
-- I'm a software developer with experience in web development, normally using Next.Js (for better performance!). I'm also like open source contributions, and AI.
+- I’m passionate about using data to generate real social impact. Always curious, eager to learn. Love open source too!
 - I enjoy solving problems that help people.
 - 📚 I'm studying **Data Cience and Artificial Intelligence** at the university PUC Campinas <br>
 - ⚡ I’m currently developing a scientific research project focused on Data Mining to Identify Social Vulnerability Factors in the communities served by child protection services in Campinas (Brazil).
