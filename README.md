@@ -6,9 +6,10 @@
 
 ###
 
-- I'm a software developer with experience in web development, normally using Next.Js (for better performance!). I'm also like open source contributions, and AI. I enjoy solving problems that help people.
+- I'm a software developer with experience in web development, normally using Next.Js (for better performance!). I'm also like open source contributions, and AI.
+- I enjoy solving problems that help people.
 - 📚 I'm studying **Data Cience and Artificial Intelligence** at the university PUC Campinas <br>
-- ⚡ I’m currently working on [Finovo](https://github.com/lucaschini/Finovo) and [Fare Foto](https://github.com/lucaschini/farefoto)
+- ⚡ I’m currently developing a scientific research project focused on Data Mining to Identify Social Vulnerability Factors in the communities served by child protection services in Campinas (Brazil).
 
 ###
 
