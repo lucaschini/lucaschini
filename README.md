@@ -28,7 +28,7 @@
 ## Recent Projects
 
 - [**AI on 8-Puzzle**](https://github.com/lucaschini/project1](https://github.com/ViniciusPinheiroLivinalli/Busca-8-Puzzle)) - AI solving the 8-Puzzle Problem, writen on C.
-- [**Fare Foto**](https://github.com/lucaschini/farefoto) - Commercial Website built on Next.Js and Prisma!
+- [
 
 ## Connect with Me
 
