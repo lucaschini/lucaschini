@@ -11,20 +11,6 @@
 - 📚 I'm studying **Data Cience and Artificial Intelligence** at the university PUC Campinas <br>
 - ⚡ I’m currently developing a scientific research project focused on Data Mining to Identify Social Vulnerability Factors in the communities served by child protection services in Campinas (Brazil).
 
-###
-
-<h3 align="left">Languages</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,php,c)](https://skillicons.dev)
-
-<h3 align="left">Web</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,next,express,nodejs,tailwind,postman,postgres,mongo)](https://skillicons.dev)
-
-<h3 align="left">More</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=git,bash,docker,figma)](https://skillicons.dev)
-
 ## Recent Projects
 
 - [**AI on 8-Puzzle**](https://github.com/lucaschini/project1](https://github.com/ViniciusPinheiroLivinalli/Busca-8-Puzzle)) - AI solving the 8-Puzzle Problem, writen on C.
