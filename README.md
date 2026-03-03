@@ -13,7 +13,7 @@
 
 ## Recent Projects
 
-- [**AI on 8-Puzzle**](https://github.com/lucaschini/project1](https://github.com/ViniciusPinheiroLivinalli/Busca-8-Puzzle)) - AI solving the 8-Puzzle Problem, writen on C.
+- [**Pauta**](https://pauta.vercel.app) - A news agreggator, with web scrapping, focused on São Paulo news.
 - [**Exploratory Analysis of Basic Basket Data**](https://github.com/lucaschini/analise-cesta-basica) - PUC Campinas Extension Project about the prices of Basic Basket on different markets of Campinas.
 
 ## Connect with Me
